@@ -5,7 +5,7 @@ import './type-counter.js';
 import { initFilter } from './filter.js';
 import { getAnswer } from './accordion.js';
 import { initValidation } from './validation.js';
-import { renderGoodsOfDay } from './slider.js';
+
 
 window.addEventListener('DOMContentLoaded', () => {
     openMainMenu();
@@ -16,4 +16,5 @@ window.addEventListener('DOMContentLoaded', () => {
     initValidation();
     renderGoodsOfDay();
 });
+
 
