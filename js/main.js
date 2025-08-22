@@ -14,7 +14,7 @@ window.addEventListener('DOMContentLoaded', () => {
     initFilter();
     getAnswer();
     initValidation();
-    renderGoodsOfDay();
 });
+
 
 
